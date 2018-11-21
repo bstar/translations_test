@@ -1,0 +1,11 @@
+{
+  "(siteName) Daily Fantasy Event - Round (round)": "{siteName} Ежедневное Событие Фэнтези - Раунд {round}",
+  
+  "Entry for the (0) challenge closed on (1) ((2))": "Вход в соревнование {gameType} закрылся {draftEnd} ({draftWindowEnd})",
+  "Entry for the (gameType) challenge opens on (entryEndDate) ((fromDate))": "Вход в соревнование {gameType} открывается {entryEndDate} ({fromDate})",
+
+  "(dayDuration) d (hourDuration) h (minDuration) m (secDuration) s": "{dayDuration} д {hourDuration} ч {minDuration} м {secDuration} с",
+  "(hourDuration) h (minDuration) m (secDuration) s": "{hourDuration} ч {minDuration} м {secDuration} с",
+  "(minDuration) m (secDuration) s": "{minDuration} м {secDuration} с",
+  "(secDuration) s": "{secDuration} с"
+}

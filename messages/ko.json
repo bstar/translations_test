@@ -1,0 +1,11 @@
+{
+  "(siteName) Daily Fantasy Event - Round (round)": "{siteName} 일일 판타지 이벤트 - 라운드 {round}",
+  
+  "Entry for the (gameType) challenge closed on (draftEnd) ((draftWindowEnd))": "{gameType} 챌린지 참가는 {draftEnd} ({draftWindowEnd}) 마감됨",
+  "Entry for the (gameType) challenge opens on (entryEndDate) ((fromDate))": "{gameType} 챌린지 참가는 {entryEndDate} ({fromDate}) 게시됨",
+  
+  "(dayDuration) d (hourDuration) h (minDuration) m (secDuration) s": "{dayDuration} 일 {hourDuration} 시간 {minDuration} 분 {secDuration} 초",
+  "(hourDuration) h (minDuration) m (secDuration) s": "{hourDuration} 시간 {minDuration} 분 {secDuration} 초",
+  "(minDuration) m (secDuration) s": "{minDuration} 분 {secDuration} 초",
+  "(secDuration) s": "{secDuration} 초"
+}

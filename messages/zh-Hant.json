@@ -1,0 +1,11 @@
+{
+  "(siteName) Daily Fantasy Event - Round (round)": "{siteName} 每日活動 - 第{round}輪",
+
+  "Entry for the (gameType) challenge closed on (draftEnd) ((draftWindowEnd))": "進入{gameType} 挑戰的請求在 {draftEnd} ({draftWindowEnd})關閉",
+  "Entry for the (gametype) challenge opens on (entryEndDate) ((fromDate))": "進入{gameType} 挑戰的請求在 {entryEndDate} ({fromDate})開啟",
+  
+  "(dayDuration) d (hourDuration) h (minDuration) m (secDuration) s": "{dayDuration} 天 {hourDuration} 小時 {minDuration} 分鐘 {secDuration} 秒",
+  "(hourDuration) h (minDuration) m (secDuration) s": "{houDuration} 小時 {minDuration} 分鐘 {secDuration} 秒",
+  "(minDuration) m (secDuration) s": "{minDuration} 分鐘 {secDuration} 秒",
+  "(secDuration) s": "{secDuration} 秒"
+}
