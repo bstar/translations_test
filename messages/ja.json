@@ -7,5 +7,6 @@
   "(dayDuration) d (hourDuration) h (minDuration) m (secDuration) s": "{dayDuration} 日 {hourDuration} 時 {minDuration} 分 {secDuration} 秒",
   "(hourDuration) h (minDuration) m (secDuration) s": "{hourDuration} 時 {minDuration} 分 {secDuration} 秒",
   "(minDuration) m (secDuration) s": "{minDuration} 分 {secDuration} 秒",
-  "(secDuration) s": "{secDuration} 秒"
+  "(secDuration) s": "{secDuration} 秒",
+  "adam": "is also nifty"
 }
