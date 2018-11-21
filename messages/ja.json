@@ -8,5 +8,5 @@
   "(hourDuration) h (minDuration) m (secDuration) s": "{hourDuration} 時 {minDuration} 分 {secDuration} 秒",
   "(minDuration) m (secDuration) s": "{minDuration} 分 {secDuration} 秒",
   "(secDuration) s": "{secDuration} 秒",
-  "adam": "is also nifty"
+  "adam": ""
 }
