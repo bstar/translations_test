@@ -6,5 +6,6 @@
     "(hourDuration) h (minDuration) m (secDuration) s": "{hourDuration} ч {minDuration} м {secDuration} с",
     "(minDuration) m (secDuration) s": "{minDuration} м {secDuration} с",
     "(secDuration) s": "{secDuration} с",
-    "james": "допинг"
+    "james": "допинг",
+    "football pickslip": "Футбол"
 }
