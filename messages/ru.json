@@ -7,5 +7,7 @@
     "(minDuration) m (secDuration) s": "{minDuration} м {secDuration} с",
     "(secDuration) s": "{secDuration} с",
     "james": "допинг",
-    "football pickslip": "Футбол"
+    "football pickslip": "Футбол",
+    "Entry for the (gameType) challenge closed on (draftEnd) ((draftWindowEnd))": "Changing this translation",
+    "You must login before you can join (name).": "You must login before you can join {name}."
 }
